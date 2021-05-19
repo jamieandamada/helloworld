@@ -1,0 +1,5 @@
+def Hello (msg):
+    print(f"hello {msg}!")
+
+if _name_ == "_main_":
+    hello("world")
